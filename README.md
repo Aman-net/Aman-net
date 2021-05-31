@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Soni (@Aman-net)
 - 👀 I’m interested in ... Web developmnt, Android Devlopment, and learning new technologies.
-- 🌱 I’m currently learning ... React native
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... React native, Firebase, React Native 
+- 💞️ I’m looking to collaborate on ... Web development projects and Android development projects
 - 📫 How to reach me ...  amansoni93744@gmail.com
  
 <!---
